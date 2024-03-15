@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dnljnt
+## 👋 Hi, I’m Suputra
 - 👀 I’m interested in Frontend Developer and UI Designer!
 - 🌱 I’m currently learning Javascript, PHP, and Framework
 - 😄 Pronouns: Sat ur day ~
